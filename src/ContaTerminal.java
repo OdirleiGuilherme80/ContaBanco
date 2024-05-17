@@ -14,6 +14,7 @@ public class ContaTerminal {
 
            System.out.println("Digite seu Nome:  \n");
            String nome = scanner.next();
+           
            System.out.println("Digite seu Sobrenome:  \n");
            String sobrenome = scanner.next();
 
